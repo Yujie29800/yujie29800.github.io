@@ -45,6 +45,7 @@
 - 陈羽洁，张义兵，徐朝军．知识建构社区外组中间人的形成特征及作用研究[J].电化教育研究,2020,41(02):38-44.【CSSCI】
 - 陈羽洁，张义兵．国际学习分析研究新趋势[J].数字教育,2018,4(04):11-16.
 - 陈羽洁．慕课在西部高校的运用和推广情况研究[J].教育观察(上半月),2015,4(08):80-82.
+
 ### 会议
 - Chen, Y., Zhang, Y., Philip, D. (2021). Use Distance Shortening Strategies to Enhance Opportunistic Collaboration in Knowledge-building Environment. Proceedings of the 2020 Knowledge Building Summer Institute, Nov 19-Nov 20, 2021, Online. 
 - Chen, Y., Zhang, Y., Hu, J. (2020). The Research on Cultivating Vocational Teachers’ Educational Research Ability in Knowledge Building Community. Proceedings of the 2020 Knowledge Building Summer Institute, Nov 20-Nov 21, 2020, Online.
